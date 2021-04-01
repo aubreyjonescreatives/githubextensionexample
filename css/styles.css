@@ -1,0 +1,38 @@
+
+
+
+body {
+    clear: both; 
+   
+    font-family: "roboto"; 
+    
+}
+
+header {
+    color: blue; 
+
+}
+
+
+h1 {
+    clear: both;  
+    font-family: "lato"; 
+    font-weight: 800;    
+   
+   }
+   
+
+
+
+h1.coding-header {
+    font-family: 'Dela Gothic One', cursive;
+    color: green; 
+    padding: 20px; 
+
+}
+
+#codingHeader {
+
+
+}
+
