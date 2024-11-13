@@ -8,32 +8,40 @@ body {
     
 }
 
-header {
-    color: blue; 
+.carousel {
+    margin: 20px; 
+}
 
+.whatwedo {
+    text-align: center; 
+    padding: 250px;
+    background-color: beige; 
+}
+
+.whatwedo h1 {
+    font-size: 36px; 
+}
+
+.row {
+    margin-top: 50px; 
+}
+
+img {
+    margin-top: 10px; 
 }
 
 
-h1 {
-    clear: both;  
-    font-family: "lato"; 
-    font-weight: 800;    
-   
-   }
-   
 
+footer {
+margin-top: 100px; 
+background-color: #fefefe;
+border-top: 1px solid #cccccc; 
 
+}
 
-h1.coding-header {
-    font-family: 'Dela Gothic One', cursive;
-    color: green; 
+footer p {
+    text-align: center;
     padding: 20px; 
-
-}
-
-#codingHeader {
-
-
 }
 
 
